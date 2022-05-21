@@ -1,0 +1,109 @@
+﻿**************************
+Fichier de correction TP4
+**************************
+
+Étudiant 1
+---------------
+Prénom et Nom: Roxane Dionne
+Numéro de dossier (NI): 536919108
+Temps de réalisation: 35h - 40h
+
+Étudiant 2
+---------------
+Prénom et Nom: Ramatoulaye Sidy Chérif Barry
+Numéro de dossier (NI): 536 905 721
+Temps de réalisation: 72h
+
+Étudiant 3
+---------------
+Prénom et Nom: Maxime Demers-Forgues
+Numéro de dossier (NI):111 021 155
+Temps de réalisation: 0h
+
+
+************************************************************************************
+CATÉGORIE 1
+--------------------------------------------------------
+Défi 1: Et c'est reparti!
+--------------------------------------------------------
+/10 L'interface retourne au début
+/10 Il est possible de lancer une nouvelle partie
+/5 La partie peut avoir de nouveaux paramètres
+--------------
+/25 TOTAL DÉFI
+--------------------------------------------------------
+
+--------------------------------------------------------
+Défi 2: Varier la vitesse
+--------------------------------------------------------
+/10 Le widget scale est présent
+/10 Le widget modifie la vitesse
+/5 L'échelle est la bonne
+--------------
+/25 TOTAL DÉFI
+--------------------------------------------------------
+
+--------------------------------------------------------
+Défi 3: Mise en évidence
+--------------------------------------------------------
+/10 Les cases pour attaque sont mises en évidence
+/5 Les cases pour défense sont mises en évidence
+/10 Uniquement les bonnes cases sont mises en évidence
+--------------
+/25 TOTAL DÉFI
+--------------------------------------------------------
+
+***********
+/50 TOTAL POUR LA CATÉGORIE 1 (somme des deux meilleurs totaux de défis)
+************************************************************************************
+ 
+
+
+************************************************************************************
+CATÉGORIE 2
+--------------------------------------------------------
+Défi 4: Carte téléversée
+--------------------------------------------------------
+/10 Il est possible de lancer une partie avec une carte téléversée valide
+/5 Fichier absent donne message d'erreur
+/5 Format de fichier invalide donne message d'erreur
+/5 Cases non connectées donne message d'erreur
+--------------
+/25 TOTAL DÉFI
+--------------------------------------------------------
+
+--------------------------------------------------------
+Défi 5: Zoom récursif
+--------------------------------------------------------
+/10 Le changement de police suit le curseur
+/5 La case sous le curseur est la plus grosse
+/10 Les autres cases ont une taille proportionnelle à la distance
+--------------
+/25 TOTAL DÉFI
+--------------------------------------------------------
+
+--------------------------------------------------------
+Défi 6: Améliorer l'intelligence artificielle
+--------------------------------------------------------
+Quelque chose a été tenté (oui/non): 
+Pourcentage de victoires:
+--------------
+/25 TOTAL DÉFI
+--------------------------------------------------------
+
+***********
+/50 TOTAL POUR LA CATÉGORIE 2 (somme des deux meilleurs totaux de défis)
+************************************************************************************
+
+
+
+Pénalités pour non-respect des consignes
+----------------------------------------
+
+
+
+Autres commentaires du correcteur
+---------------------------------
+
+
+Total: /100
